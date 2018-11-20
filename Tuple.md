@@ -5,9 +5,6 @@ A \[Tuple] is a collection which can contain various objects. A tuple is immutab
  
 In memory, a \[Tuple\] looks like this:
 
-\[sketch or diagram\]
-
-\[description of diagram\]
 
 # Operations
 
@@ -18,9 +15,9 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-A Programmer might want a list of items which never change. For instance, for naming all of the months in a year or to naming video game charaters, a coder could use a tuple.  
+A programmer might want a list of items which never change. For instance, for naming all of the months in a year or naming video game characters, a coder could use a tuple.  
 
-It is not as good as \[what] \[why\].
+using a tuple is not very useful when items change.
 
 # Example
 
