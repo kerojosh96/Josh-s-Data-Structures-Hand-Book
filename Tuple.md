@@ -1,10 +1,10 @@
-# \[Widget\]
+# \[Tuple\]
 
-A \[widget\] is \[describe in very simple terms\].
+A \[Tuple] is a collection which can contain varous objects. A tuple is immutable, meaning that once the tuple has been instancaited, nothing can be added or removed.
 
 # In Memory
-
-In memory, a \[widget\] looks like this:
+ 
+In memory, a \[Tuple\] looks like this:
 
 \[sketch or diagram\]
 
