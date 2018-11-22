@@ -14,14 +14,14 @@ In memory, a \[widget\] looks like this:
 
 A \[dictionary\] supports the following operations:
 
-* Because dictionaries use hashing algorithms,(in most cases) Accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1). The only difference would be in using some kind of iteration which would be big O(n)  
+* Because dictionaries use hashing algorithms,(in most cases) accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1). The only difference would be in using some kind of iteration which would be big O(n)  
 
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A \[dictionary] is useful a person needs fast retrival of data.
 
-It is not as good as \[what] \[why\].
+a dictionary is not very useful when order of elements matters or iteration is needed .
 
 # Example
 
