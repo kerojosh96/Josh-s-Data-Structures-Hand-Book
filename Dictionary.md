@@ -1,6 +1,6 @@
-# \[Widget\]
+# \[Dictionary\]
 
-A \[widget\] is \[describe in very simple terms\].
+A \[dictionary\] is an unordered collection of objects which uses a system of organization of value and key pairs notated using curly brackets.
 
 # In Memory
 
@@ -12,10 +12,10 @@ In memory, a \[widget\] looks like this:
 
 # Operations
 
-A \[widget\] supports the following operations:
+A \[dictionary\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* Because dictionaries use hashing algorithms,(in most cases) Accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1).
+
 
 # Use Cases
 
