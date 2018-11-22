@@ -10,14 +10,14 @@ In memory, a \[Tuple\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* Accessing a tuple is Big O(1) becuase when the search value is known. Because a tuple is immutable, append() and pop() cannot be used. 
-* name: description, Big O efficiency, and explain why / what that means
+* Accessing a tuple is Big O(1) because when the search value is known you don't need to iterate across the whole tuple. However, searching is Big O(n) because, depending on where the item is located, you may need to iterate the entire tuple.  Because a tuple is immutable, append() and pop() cannot be used and therefore, deletion and insertion are impossible.
+
 
 # Use Cases
 
 A programmer might want a list of items which never change. For instance, for naming all of the months in a year or naming video game characters, a coder could use a tuple.  
 
-using a tuple is not very useful when items change.
+Using a tuple is not very useful when items need to frequently change/add/removed or changed at all.
 
 # Example
 
