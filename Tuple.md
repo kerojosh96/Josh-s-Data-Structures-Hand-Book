@@ -10,7 +10,7 @@ In memory, a \[Tuple\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* Accessing a tuple is Big O(1). Because a tuple is immutable, append() and pop() cannot be used. 
+* Accessing a tuple is Big O(1) becuase when the search value is known. Because a tuple is immutable, append() and pop() cannot be used. 
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
