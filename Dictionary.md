@@ -14,7 +14,7 @@ In memory, a \[widget\] looks like this:
 
 A \[dictionary\] supports the following operations:
 
-* Because dictionaries use hashing algorithms,(in most cases) Accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1).
+* Because dictionaries use hashing algorithms,(in most cases) Accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1). The only difference would be in using some kind of iteration which would be big O(n)  
 
 
 # Use Cases
