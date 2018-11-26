@@ -1,6 +1,6 @@
 # \[Tuple\]
 
-A \[Tuple] is a collection which can contain various objects. A tuple is immutable, meaning that once the tuple has been instantiated, nothing can be added or removed.
+A \[Tuple] is a collection which can contain heterogenous objects. A tuple is immutable, meaning that once the tuple has been instantiated, nothing can be added or removed.
 # In Memory
  
 In memory, a \[Tuple\] looks like this:
