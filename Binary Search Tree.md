@@ -16,9 +16,9 @@ In memory, a \[widget\] looks like this:
 A \[widget\] supports the following operations:
 
 * The efficiency of accessing/searching a Binary Search tree is Big O(n). because an inefficient BST will degrade into a linked list like structure.  
-*  The same goes for the efficiency of insertion/deletion in a Binary Search tree is Big O(n). Because  
+*  The same goes for the efficiency of insertion/deletion in a Binary Search tree is Big O(n) because of linked list like Imbalances .   
 
-* name: description, Big O efficiency, and explain why / what that means
+* name: description, Big O efficiency, and explain why / what that 
 
 # Use Cases
 
