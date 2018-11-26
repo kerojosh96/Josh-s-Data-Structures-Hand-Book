@@ -1,6 +1,7 @@
-# \[stack\]
+# \binary Search Tree
 
-A \[widget\] is \[describe in very simple terms\].
+A \binary Search Tree\ is a data structure in which objects are sorted in the following manner. It sorts the tree starting from the root node. If a new value is added and it is greater then the root,it is added to the right. If then node's value is less then the root then it is added to the right. Becuase of recurtion,any BST node is a root.    
+* 
 
 # In Memory
 
@@ -14,12 +15,17 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
+* The efficiency of accessing/searching a Binary Search tree is Big O(n). because an inefficient BST will degrade into a linked list like structure.  
+*  The same goes for the efficiency of insertion/deletion in a Binary Search tree is Big O(n). Because  
+
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+a binary search tree, if values are distributed properly, can be O(log(n)) which is more efficiency than a linked list. This makes it useful for searching accessing and searching. 
+
+However, an AVL tree is much more efficient than .   
+ 
 
 It is not as good as \[what] \[why\].
 
