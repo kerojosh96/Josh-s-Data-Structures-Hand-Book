@@ -1,6 +1,6 @@
-# \[Widget\]
+# \[Queue]
 
-A \[widget\] is \[describe in very simple terms\].
+A \[queu] is a liner data structure in wich items are added(enqued) at one end and elements are removed(dequed) at the other end. 
 
 # In Memory
 
