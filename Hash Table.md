@@ -1,6 +1,6 @@
-# \[Widget\]
+# \[Hash Table]
 
-A \[widget\] is \[describe in very simple terms\].
+A hash table is a collection of elements stored in a spefic way to make them easy to find. A hash table is organized with mutiple slots with integer key values.  
 
 # In Memory
 
@@ -14,8 +14,8 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If   
+*A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If two values have the same key and a collision occurs, the performance can degrade into O(n) as it chains multiple arrays of linked lists at each collided value.
 
 # Use Cases
 
