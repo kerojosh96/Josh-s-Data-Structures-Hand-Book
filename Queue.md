@@ -1,6 +1,6 @@
 # \[Queue]
 
-A \[queu] is a liner data structure in wich items are added(enqued) at one end and elements are removed(dequed) at the other end. 
+A \[queu] is a liner data structure in wich items are added(enqued) at one end and elements are removed(dequed) at the other end. a queue is a Last-In-First-out (LIFO) data type. 
 
 # In Memory
 
