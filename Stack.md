@@ -16,14 +16,15 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+* Because pushing onto a stack is O(1), A great use for a stack would for collecting tons of data for later analyses. 
 
-It is not as good as \[what] \[why\].
+* A stack would not be very useful if you wish to frequently search threw the stack for a specific element, this would be better handled with an array.   
+
 
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
+
 or
 a program that doesn't use the structure, and then a version that does
 ```
