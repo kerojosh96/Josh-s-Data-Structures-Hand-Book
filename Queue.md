@@ -26,7 +26,7 @@ A \[widget\] supports the following operations:
 
 An Queue is good for many cases, in general, a queue is useful for creating a list of operations or elements where resources are limited or order matters. Like ,creating a queue for a printer,online waiting list ect. 
 
-a Queue is not very usefull when radmond acces is needed or values outside of the head or tail are needed quickly because that would be inefficient and require iteration.
+a Queue is not very usefull when radmond acces is needed or values besides the head or tail are needed quickly because that would be inefficient and require iteration.
 
 
 # Example
