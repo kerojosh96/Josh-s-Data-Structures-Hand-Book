@@ -24,9 +24,13 @@ A \[widget\] supports the following operations:
 # Example
 
 ```
+Foo = Stack() #creates a new stack 
+Foo.push("hello")
+Foo.push("hi")
+Foo.push(True)
+Foo.pop()
+print(Foo.Peek())
 
-or
-a program that doesn't use the structure, and then a version that does
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
