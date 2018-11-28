@@ -1,6 +1,6 @@
 # Stack
 
-A stack is an ordered collection of elements in which items are either added (pushed) or removed (pop) from only one end. A stack is a Last-In-First-Out structure or (LIFO) and elements cannot be added or removed anywhere but the top. 
+A stack is an ordered collection of elements in which items are either added (push) or removed (pop) from only one end. A stack is a Last-In-First-Out structure or (LIFO) and elements cannot be added or removed anywhere but the top. 
 
 # In Memory
 
