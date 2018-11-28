@@ -15,7 +15,7 @@ In memory, a \[widget\] looks like this:
 A \[widget\] supports the following operations:
 
 *Searching an AVL tree is O(log(n)) because when the tree is balanced properly, comparing a search value to a node will likely cut the possible values in half as it moves down one side of the tree and recursively repeats the halving process.  
-* name: description, Big O efficiency, and explain why / what that means
+* Adding and deleting nodes is also O(log(n)) because only half the tree is needed to iterate down to the addition/deletion spot. 
 
 # Use Cases
 
