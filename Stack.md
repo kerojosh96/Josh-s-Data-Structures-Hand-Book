@@ -4,11 +4,7 @@ A stack is an ordered collection of elements in which items are either added (pu
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
-
-\[sketch or diagram\]
-
-\[description of diagram\]
+![](pics/stack.png)
 
 # Operations
 
