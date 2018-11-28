@@ -1,4 +1,4 @@
-# \[Widget\]
+# 
 
 A linked list is an ordered collection of elements in which each node points to the next node. The first node is called the head and each node that is at the end of a list has a default null value. 
 
