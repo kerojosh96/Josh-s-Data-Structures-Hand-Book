@@ -1,6 +1,6 @@
 # Queue
 
-A \[queu] is a liner data structure in wich items can only be inserted (enqued) at the tail end and elements removed(dequed) at the front or head. a queue is a Last-In-First-out (LIFO) data type and does not provid random access. 
+A \[queu] is a liner data structure in wich items can only be inserted (enqued) at the tail end and elements removed(dequed) at the front or head. a queue is a First-In-First-out (FIFO) data type and does not provid random access. 
 
 # In Memory
 
