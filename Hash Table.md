@@ -14,8 +14,7 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If   
-*A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If two values have the same key and a collision occurs, the performance can degrade into O(n) as it chains multiple arrays of linked lists at each collided value.
+* A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If two values have the same key and a collision occurs, the performance can degrade into O(n) as it chains multiple arrays of linked lists at each collided value.
 
 # Use Cases
 
