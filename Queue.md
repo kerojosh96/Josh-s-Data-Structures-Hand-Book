@@ -8,7 +8,7 @@ In memory, a \[widget\] looks like this:
 
 
 ![alt text](Josh-s-Data-Structures-Hand-Book/pics/q.PNG)
-      
+![alt text](josh-s-Data-Structures-Hand-Book/pics/q.PNG)
 
 # Operations
 
