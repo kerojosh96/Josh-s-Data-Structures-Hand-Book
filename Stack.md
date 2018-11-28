@@ -1,6 +1,6 @@
-# \[Widget\]
+# Stack
 
-A \[widget\] is \[describe in very simple terms\].
+A stack is an ordered collection of elements in which items are either added (pushed) or removed (pop) from only one end. A stack is a Last-In-First-Out structure or (LIFO) and elements cannot be added or removed anywhere but the top. 
 
 # In Memory
 
@@ -14,8 +14,9 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* The efficiency of push and pop are both O(1) because they both only can be added/removed from the head and no iteration is needed.
+* The efficiency of accessing and searching a stack is o(n) because iteration is needed from the top to the search value.    
+
 
 # Use Cases
 
