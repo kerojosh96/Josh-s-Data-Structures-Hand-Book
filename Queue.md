@@ -10,12 +10,7 @@ In memory, a \[widget\] looks like this:
 
 
 
-![](pics/q.png)
-
-
-
-
-
+![](pics/q.PNG)
 
 
 
