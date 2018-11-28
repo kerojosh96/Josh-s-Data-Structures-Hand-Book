@@ -1,6 +1,6 @@
-# \[Widget\]
+# Array
 
-A \[widget\] is \[describe in very simple terms\].
+An array is a collection of elements.
 
 # In Memory
 
