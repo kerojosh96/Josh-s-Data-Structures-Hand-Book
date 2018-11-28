@@ -1,4 +1,4 @@
-# \[Dictionary\]
+# Dictionary
 
 A \[dictionary\] is an unordered collection of objects which uses a system of organization of value and key pairs notated using curly brackets.
 
