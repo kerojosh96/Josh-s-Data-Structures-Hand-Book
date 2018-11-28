@@ -1,6 +1,6 @@
 # \[Widget\]
 
-A \[widget\] is \[describe in very simple terms\].
+An AVL tree is a type of binary search tree that preforms self-balancing operations on it’s nodes in a way to optimize performance. An AVL tree can only have 1 subtree that differs in height from either side of a root’s left or right node, else, it is rebalanced accordingly.  
 
 # In Memory
 
