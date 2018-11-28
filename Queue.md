@@ -32,9 +32,12 @@ a Queue is not very usefull when radmond acces is needed or values besides the h
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+foo = Queue()
+foo.enqueue("cat")
+foo.enqueue("dog")
+foo.enqueue("fish")
+foo.dequeue()
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
