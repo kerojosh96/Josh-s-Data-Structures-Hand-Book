@@ -7,7 +7,7 @@ A \[queu] is a liner data structure in wich items can only be inserted (enqued) 
 In memory, a \[widget\] looks like this:
 
 
-      ![alt text](http://url/to/img.png)
+![alt text](Josh-s-Data-Structures-Hand-Book/pics/q.PNG)
       
 
 # Operations
