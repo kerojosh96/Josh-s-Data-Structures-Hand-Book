@@ -1,6 +1,6 @@
 # Set
 
-A set is a collection of various elements which can be different data types.In a set, there can be no duplicates.
+A set is a collection of various elements which can be different data types.In a set, there can be no duplicates.In a set the order does not matter 
 
 # In Memory
 
@@ -26,9 +26,17 @@ It is not as good as \[what] \[why\].
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+    
+test = set()
+test.add("hello")
+test.add(True)
+test.add(135)
+test.add("hello")# this wont add anything new because there is already an element named "hello"
+print(test)
+print(len (test))
+test.discard(135)# this removes 135
+print(test)
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
