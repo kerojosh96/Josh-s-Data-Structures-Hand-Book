@@ -1,6 +1,6 @@
-# \[Widget\]
+# Set
 
-A \[widget\] is \[describe in very simple terms\].
+A set is a collection of various elements which can be different data types.In a set, there can be no duplicates.
 
 # In Memory
 
