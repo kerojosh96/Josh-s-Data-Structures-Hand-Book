@@ -10,8 +10,8 @@ In memory, a \[Tuple\] looks like this:
 
 A \[tuple\] supports the following operations:
 
-* Accessing a tuple is Big O(1) because when the search value is known, you don't need to iterate across the whole tuple. 
-* Searching is Big O(n) because, depending on where the item is located, you may need to iterate the entire tuple to find what you are looking for. Because a tuple is immutable, append() and pop() cannot be used and therefore, deletion and insertion are impossible.
+* Accessing a tuple is O(1) because when the search value is known, you don't need to iterate across the whole tuple. 
+* Searching is O(n) because, depending on where the item is located, you may need to iterate the entire tuple to find what you are looking for. Because a tuple is immutable, append() and pop() cannot be used and therefore, deletion and insertion are impossible.
 
 
 # Use Cases
