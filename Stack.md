@@ -23,12 +23,12 @@ A \[widget\] supports the following operations:
 # Example
 
 ```
-Foo = Stack() #creates a new stack 
-Foo.push("hello")
-Foo.push("hi")
-Foo.push(True)
-Foo.pop()
-print(Foo.Peek())
+foo = Stack() #creates a new stack 
+foo.push("hello")
+foo.push("hi")
+foo.push(True)
+foo.pop()# removes True
+print(foo.Peek())
 
 ```
 
