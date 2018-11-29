@@ -6,7 +6,8 @@ A dictionary is an unordered collection of objects which uses a system of organi
 
 In memory, a \[widget\] looks like this:
 
-\[sketch or diagram\]
+![](pics/dict.png)
+ This is a simple hash table function which takes a word and uses the length and converts it into a number for hashing. Though this is just an example, it would not work well for any two words that are the same length.
 
 \[description of diagram\]
 
