@@ -20,7 +20,7 @@ A \[dictionary\] supports the following operations:
 
 # Use Cases
 
-A \[dictionary] is useful a person needs fast retrival of data.
+A dictionary is useful a person needs fast retrieval of data. Some common uses include database indexing, error checking and password authentication.  
 
 a dictionary is not very useful when order of elements matters or iteration is needed .
 
