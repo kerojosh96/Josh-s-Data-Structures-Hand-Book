@@ -14,14 +14,14 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* An array implementation’s complexity for pushing and popping at either end of deque is O(1). 
-* name: description, Big O efficiency, and explain why / what that means
+* An array implementation’s complexity for pushing(enque) and popping(deque) at either end of deque is O(1). 
+* searching for a value in a deque is O(n) because iteration is needed. 
 
 # Use Cases
 
-A deque is useful when needing to push and pop from both ends of a list. Some applications would be to store search history and to store a list of undo history and then dequeue at a certain point. 
+A deque is useful when needing to push and pop from both ends of a list. Some applications would be to store search history and to store a list of undo history and then deque at a certain point. 
 
-It is not as good as \[what] \[why\].
+A deque is not very useful when order matters or for searching or indexing. 
 
 # Example
 
