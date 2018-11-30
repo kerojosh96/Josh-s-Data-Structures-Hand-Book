@@ -21,7 +21,7 @@ A \[widget\] supports the following operations:
 
  Because a priority queue uses a binary heap, insertion and deletion of elements onto a priority que is O(log(n)).
 
-A priority queue would not be useful when all elements have the same priority or that feature is not needed.   
+A priority queue would not be useful when all elements have the same priority or that the priority feature is not needed.   
 
 # Example
 
