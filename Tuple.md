@@ -4,8 +4,8 @@ A \[Tuple] is a collection which can contain heterogeneous objects. A tuple is i
 # In Memory
  
 In memory, a \[Tuple\] looks like this:
-
-
+![](pics/tuple.png)
+ here is a diagram of a tuple in memory.
 # Operations
 
 A \[tuple\] supports the following operations:
