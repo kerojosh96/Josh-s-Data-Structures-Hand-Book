@@ -29,9 +29,10 @@ It is not as good as \[what] \[why\].
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test =  graph()
+test.add_edge(x,y)# given the location,this makes a new edge.
+test.add_vertex(x,y)# given the location,this makes a new edge vertex.
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
