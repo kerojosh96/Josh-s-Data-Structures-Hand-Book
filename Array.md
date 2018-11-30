@@ -6,7 +6,7 @@ An array is an ordered collection of elements stored contiguously in memory.  Wh
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, an array looks like this:
 
 ![](pics/array.png)
 
