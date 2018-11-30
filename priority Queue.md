@@ -14,8 +14,8 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* because a priority queue uses a binary heap, insertion and deletion of elements onto a priority que is O(log(n))
+* searching and accessing a binary heap is O(n) because it is only partially sorted and it sill needs iteration.  
 
 # Use Cases
 
