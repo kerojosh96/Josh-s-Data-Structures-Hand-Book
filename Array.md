@@ -16,7 +16,7 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* Accessing an array is O(1) because the location for the value is known at that is equal for every element in an array. 
+* Accessing an array is O(1) because the location for the value is known the retrieval process is equal for every element in an array.  
 * Searching and inserting and deleting in an array is O(n) because iteration is needed to get to the desired location.   
 
 
