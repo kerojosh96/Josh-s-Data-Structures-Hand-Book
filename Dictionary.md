@@ -4,16 +4,15 @@ A dictionary is an unordered collection of objects which uses a system of organi
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a dictionary looks like this:
 
 ![](pics/dict.png)
- This is a simple hash table function which takes a word and uses the length and converts it into a number for hashing. Though this is just an example, it would not work well for any two words that are the same length.
+ This is a simple hash table function which takes a word and uses the length and converts it into a number for hashing. Though this is just an example, it would not work well for any two words that are the same length.(It would chain in this case) 
 
-\[description of diagram\]
 
 # Operations
 
-A \[dictionary\] supports the following operations:
+A dictionary supports the following operations:
 
 * Because dictionaries use hashing algorithms,(in most cases) accessing a value in a dictionary as well as setting a value and deleting an item is Big O(1). The only difference would be in using some kind of iteration which would be big O(n) 
 * A hash table uses a hash function to turn an element into a indexable value. If done properly this can allow O(1) access of an element. If two values have the same key and a collision occurs, the performance can degrade into O(n) as it chains multiple arrays of linked lists at each collided value.
@@ -23,7 +22,7 @@ A \[dictionary\] supports the following operations:
 
 A dictionary is useful a person needs fast retrieval of data. Some common uses include database indexing, error checking and password authentication.  
 
-a dictionary is not very useful when order of elements matters or iteration is needed .
+a dictionary is not very useful when order of elements matters or iteration is needed.
 
 # Example
 
@@ -35,4 +34,4 @@ print(dict[4]) # prints the value at key 4
 del dict[2]# removes the key/value of 2
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 Josh Cook. All rights reserved.
