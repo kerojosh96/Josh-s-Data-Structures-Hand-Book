@@ -21,7 +21,7 @@ A \[widget\] supports the following operations:
 
 Because the top value will be the largest for a maxheap and smallest for a minheap, a min or max heap is very useful when you need quick access the largest or the smallest node in the tree. It is also used in a priority que. .
 
-It is not as good as \[what] \[why\].
+searching and accessing a binary heap is O(n) because it is only partially sorted it sill needs iteration.
 
 # Example
 
