@@ -1,6 +1,6 @@
 # Set
 
-A set is a collection of various elements which can be different data types.In a set, there can be no duplicates.In a set the order does not matter 
+A set is a collection of various elements which can be different data types.In a set, there can be no duplicates.In a set the order does not matter as it is not indexable. 
 
 # In Memory
 
@@ -14,14 +14,14 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
+* Because the python set uses a hash table, insertion and deletion and search are O(1). 
 * name: description, Big O efficiency, and explain why / what that means
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A few uses for a set are to compute math operations like union and difference equations, removing duplicates from a sequence.
 
-It is not as good as \[what] \[why\].
+a set would not work if you need to index a value in a set.
 
 # Example
 
