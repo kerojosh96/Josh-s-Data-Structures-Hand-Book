@@ -1,6 +1,8 @@
 # Array
 
-An array is a collection of elements.
+
+An array is an ordered collection of elements stored contiguously in memory.  When a new elements is added to an array the size of the array increase and all values are indexable. 
+
 
 # In Memory
 
@@ -14,8 +16,9 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* Accessing an array is O(1) because the location for the value is known at that is equal for every element in an array. 
+* Searching and inserting and deleting in an array is O(n) because iteration is needed to get to the desired location.   
+
 
 # Use Cases
 
