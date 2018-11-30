@@ -8,7 +8,7 @@ In memory, a \[widget\] looks like this:
 
 \[sketch or diagram\]
 ![](pics/max.png)
-\[description of diagram\]
+This is a diagram of a max heap being made from a list of values. The tree down below is sorted according the max heap function.  
 
 # Operations
 
