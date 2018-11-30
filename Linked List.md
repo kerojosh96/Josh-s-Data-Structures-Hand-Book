@@ -25,9 +25,9 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A linked list is useful when quick insertion and deletion are needed. It is also useful when you need to insert a value into the middle of a linked list..
 
-It is not as good as \[what] \[why\].
+A linked list is not useful if you need random access as you would have to iterate across the list. .
 
 # Example
 
