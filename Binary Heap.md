@@ -19,7 +19,9 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-Because the top value will be the largest for a maxheap and smallest for a minheap, a min or max heap is very useful when you need quick access the largest or the smallest node in the tree. It is also used in a priority que. .
+Because the top value will be the largest for a maxheap and smallest for a minheap, a min or max heap is very useful when you need quick access to the largest or the smallest node in the tree. It is also used in a priority que. 
+
+A binary heap would not be very useful for constant value lookup and indexing.  
 
  
 
