@@ -17,6 +17,7 @@ A \[widget\] supports the following operations:
 
 * Using an adjacency list, adding a vertex or adding an edge is o(1).
 The complexity of deleting a vertex is depended on the number of vertices or O(V) and deleting an edge is O( E ) dependant on the number of edges. 
+* The complexity of deleting a vertex is depended on the number of vertices or O(V) and deleting an edge is O( E ) dependant on the number of edges. 
 
 
 # Use Cases
