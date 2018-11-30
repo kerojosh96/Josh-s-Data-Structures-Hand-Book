@@ -10,7 +10,7 @@ In memory, a \[widget\] looks like this:
 
 ![](pics/array.png)
 
-\[description of diagram\]
+This is a model of an array in memory with 6 elements. 
 
 # Operations
 
@@ -22,9 +22,9 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+An array is a very basic but versatile data structure that has many uses. Typically, it used when storing sequential data and when indexing is useful.
 
-It is not as good as \[what] \[why\].
+An array is not the best choice when sorting is needed or constant searching or frequent deletion and addition happen rapidly as this would not be efficient.    
 
 # Example
 
