@@ -28,9 +28,11 @@ A binary heap would not be very useful for constant value lookup and indexing.
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test = binary_heap(3)# creates a new binary max heap with a root of 3
+test.insert(4)#adds a new value
+test.insert(44)#adds a new value
+test.insert(22)#adds a new value
+test.delete(22)#removes 22
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
