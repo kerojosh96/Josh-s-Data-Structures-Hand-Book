@@ -15,13 +15,13 @@ In memory, a \[widget\] looks like this:
 A \[widget\] supports the following operations:
 
 * Because of the sorting algorithms involved a min or max heap, it is always kept balanced and because of this, when traversing down a min or max heap half of the tree gets ignored because it is either less or greater then search value recursively. For insertion and deletion, This then becomes O(log(n)).  
-* name: description, Big O efficiency, and explain why / what that means
+* searching and accessing a binary heap is O(n) because it is only partially sorted it sill needs iteration  
 
 # Use Cases
 
 Because the top value will be the largest for a maxheap and smallest for a minheap, a min or max heap is very useful when you need quick access the largest or the smallest node in the tree. It is also used in a priority que. .
 
-searching and accessing a binary heap is O(n) because it is only partially sorted it sill needs iteration.
+ 
 
 # Example
 
