@@ -1,4 +1,4 @@
-# \[Widget\]
+# Graph
 
 A graph is a nonlinear data structure that uses nodes and are connected with edges. A graph can best be best defined with the following equation. G = (V,E) Where a graph G is an ordered pair of a set of vertices V and a set of edges E. 
 
