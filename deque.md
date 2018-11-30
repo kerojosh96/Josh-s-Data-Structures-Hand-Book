@@ -6,7 +6,7 @@ A deque is a type of queue that is double ended in which elements can be inserte
 
 In memory, a \[widget\] looks like this:
 
-\[sketch or diagram\]
+![](pics/deque.png)
 
 \[description of diagram\]
 
