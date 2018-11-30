@@ -17,16 +17,16 @@ A diagram of a singly linked list in memory.
 
 # Operations
 
-A \[widget\] supports the following operations:
+A linked list supports the following operations:
 
 * Accessing and searching a linked list is O(n) because you have to iterate across the list to find the search value. 
-* adding and deleting a value at the end of a linked list is O(1) because there is a variable which stores the location of the last element. 
+* Adding and deleting a value at the end of a linked list is O(1) because there is a variable which stores the location of the last element. 
 
 # Use Cases
 
-A linked list is useful when quick insertion and deletion are needed. It is also useful when you need to insert a value into the middle of a linked list..
+A linked list is useful when quick insertion and deletion are needed. It is also useful when you need to insert a value into the middle of a linked list.
 
-A linked list is not useful if you need random access as you would have to iterate across the list. .
+A linked list is not useful if you need random access as you would have to iterate across the list. 
 
 # Example
 
@@ -38,5 +38,5 @@ test.pop()#removes the last element
 
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 Josh Cook. All rights reserved.
 
