@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-A binary Search Tree is a data structure in which objects are sorted in the following manner. It sorts the tree starting from the root node. If a new value is added and it is greater then the root,it is added to the right. If then node's value is less then the root then it is added to the right. Becuase of recurtion,any BST node is a root.    
+A binary Search Tree is a data structure in which objects are sorted in the following manner. It sorts the tree starting from the root node. If a new value is added and it is greater then the root,it is added to the right. If then node's value is less then the root then it is added to the left. Becuase of recurtion,any BST node is a root.    
 * 
 
 # In Memory
