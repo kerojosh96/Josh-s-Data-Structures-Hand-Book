@@ -9,7 +9,7 @@ In memory, a \[widget\] looks like this:
 
 ![](pics/bst.png)
 
-\[description of diagram\]
+\[This is a diagram of a binary search tree in memory. Each node has a pointer to the left and right. If there is no child, then the pointer value is null. ]
 
 # Operations
 
