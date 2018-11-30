@@ -7,7 +7,7 @@ A binary Search Tree is a data structure in which objects are sorted in the foll
 
 In memory, a \[widget\] looks like this:
 
-\[sketch or diagram\]
+![](pics/bst.png)
 
 \[description of diagram\]
 
