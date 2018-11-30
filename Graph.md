@@ -5,11 +5,11 @@ A graph is a nonlinear data structure that uses nodes and are connected with edg
 In a graph using a directed edge, each edge would be represented using an ordered pair starting at the origin and ending at the destination. In a directed graph, one way traversal from origin to destination is only allowed.  In an undirected graph, the edges would be represented as a set and traversal could happened both ways. A graph can sometimes be broken into small parts and each separate part is called a component. Also, a graph where the starting vertex is the same as the ending vertex is called cyclic. There are a few different ways to implement a graph, one way would be to use an adjacency list.   
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a graph looks like this:
 
 \[sketch or diagram\]
-
-\[description of diagram\]
+![](pics/graph.png)
+This is a diagram of a graph with 6 vertices and 6 edges 
 
 # Operations
 
