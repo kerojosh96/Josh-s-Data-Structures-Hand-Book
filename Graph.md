@@ -22,9 +22,9 @@ The complexity of deleting a vertex is depended on the number of vertices or O(V
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+Graphs can be used in many applications like networking, mapping out roads, and finding short paths.
 
-It is not as good as \[what] \[why\].
+
 
 # Example
 
