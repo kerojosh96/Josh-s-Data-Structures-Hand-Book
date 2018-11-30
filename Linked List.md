@@ -9,7 +9,7 @@ There are a few different types of linked lists.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+![](pics/linked.png):
 
 \[sketch or diagram\]
 
