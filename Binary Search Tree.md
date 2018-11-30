@@ -16,7 +16,7 @@ In memory, a \[widget\] looks like this:
 A \[widget\] supports the following operations:
 
 * The efficiency of accessing/searching a Binary Search tree is Big O(n). because an inefficient BST will degrade into a linked list like structure.  
-*  The same goes for the efficiency of insertion/deletion in a Binary Search tree is Big O(n) because of linked list like Imbalances .   
+*  The same goes for the efficiency of insertion/deletion in an unbalanced Binary Search tree is Big O(n) because of linked list like Imbalances.   
 
 * name: description, Big O efficiency, and explain why / what that 
 
@@ -27,7 +27,7 @@ a binary search tree, if values are distributed properly, can be O(log(n)) which
 However, other types of trees that self-balance are much more effective and safer in terms of efficiency.   
  
 
-It is not as good as \[what] \[why\].
+A binary search tree is not very useful when collecting data that is linear as this would degrade into a linked list.
 
 # Example
 
