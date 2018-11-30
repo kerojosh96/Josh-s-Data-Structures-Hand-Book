@@ -29,9 +29,13 @@ It is not as good as \[what] \[why\].
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test = []
+test.append(1)#adds to test
+test.append(2)#adds to test
+test.append(3)#adds to test
+test.pop()#removes the last element 
+print(test[1])
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
