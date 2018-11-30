@@ -23,7 +23,7 @@ The complexity of deleting a vertex is depended on the number of vertices or O(V
 # Use Cases
 
 Graphs can be used in many applications like networking, mapping out roads, and finding short paths.
-
+Because of the complexity of setting up a graph, a simple basic low data project won’t want to use one. 
 
 
 # Example
