@@ -13,11 +13,11 @@ This is a diagram of a graph with 6 vertices and 6 edges
 
 # Operations
 
-A \[widget\] supports the following operations:
+A graph supports the following operations:
 
 * Using an adjacency list, adding a vertex or adding an edge is o(1).
-The complexity of deleting a vertex is depended on the number of vertices or O(V) and deleting an edge is O( E ) dependant on the number of edges. 
-* The complexity of deleting a vertex is depended on the number of vertices or O(V) and deleting an edge is O( E ) dependant on the number of edges. 
+The complexity of deleting a vertex is depended on the number of vertices or O(V) and deleting an edge is O(E) dependant on the number of edges. 
+* The complexity of adding a vertex is depended on the number of vertices or O(V) and adding an edge is O(E) dependant on the number of edges. 
 
 
 # Use Cases
@@ -36,5 +36,5 @@ test.add_vertex(x,y)# given the location,this makes a new edge vertex.
 
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 Josh Cook. All rights reserved.
 
