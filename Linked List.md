@@ -31,9 +31,11 @@ A linked list is not useful if you need random access as you would have to itera
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test =  linked_list()
+test.push(5)#adds a new value
+test.push(1)#adds a new value
+test.pop()#removes the last element 
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
