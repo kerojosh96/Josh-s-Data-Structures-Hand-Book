@@ -19,16 +19,18 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
- because a priority queue uses a binary heap, insertion and deletion of elements onto a priority que is O(log(n)).
+ Because a priority queue uses a binary heap, insertion and deletion of elements onto a priority que is O(log(n)).
 
-It is not as good as \[what] \[why\].
+A priority queue would not be useful when all elements have the same priority or that feature is not needed.   
 
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test = PQ()
+test.insert("hello",2)# adds a value with a priority of 2
+test.insert("from the",10)# adds a value with a priority of 10
+test.insert("other side",20)# adds a value with a priority of 20
+
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
