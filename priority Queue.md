@@ -1,6 +1,6 @@
-# \[Widget\]
+# Priority Queue
 
- a priority que is similar to a regular queue but in a priority queue each element has a value that corresponds to a priority level. If an element has a higher priority, then another element the highest priority gets to the front of the queue first. This is done with the help of a binary heap. 
+ A priority queue is similar to a regular queue, but in a priority queue each element has a value that corresponds to a priority level. If an element has a higher priority, then the highest priority gets to the front of the queue first. This is done with the help of a binary heap. 
 
 # In Memory
 
