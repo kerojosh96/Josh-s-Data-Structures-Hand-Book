@@ -19,7 +19,7 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-A deque is useful when needing to push and pop from both ends of a list. Some applications would be to store search history and to store a list of undo history. 
+A deque is useful when needing to push and pop from both ends of a list. Some applications would be to store search history and to store a list of undo history and then dequeue at a certain point. 
 
 It is not as good as \[what] \[why\].
 
