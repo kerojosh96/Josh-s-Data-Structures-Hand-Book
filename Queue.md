@@ -1,10 +1,10 @@
 # Queue
 
-A queue is a structure in wich items can only be inserted (enqued) at the tail end and elements removed(dequed) at the front or head. a queue is a Last-In-First-out (LIFO) data type and does not provide random access.
+A queue is a structure in wich items can only be inserted (enqued) at the tail end and elements removed(dequed) at the front or head. A queue is a Fist-In-First-out (FIFO) data type and does not provide random access.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a queue looks like this:
 
 
 
@@ -13,11 +13,11 @@ In memory, a \[widget\] looks like this:
 ![](pics/q.PNG)
 
 
-
+This is a diagram of a queue in memory 
 
 # Operations
 
-A \[widget\] supports the following operations:
+A queue supports the following operations:
 
 * Accessing and searching a queue is O(n) because a queue can only be dequeued 1 element and at time, it may have to iterate across the entire queue to find the search value, so, it is O(n).  
 * insertion and deletion of a queue better known as enque and dequeue, are O(1) because they occur at fixed positions at the tail and at the head respectively so iteration is not needed.  
