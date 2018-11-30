@@ -8,7 +8,7 @@ In memory, a \[widget\] looks like this:
 
 \[sketch or diagram\]
 
-\[description of diagram\]
+![](pics/set.png)
 
 # Operations
 
