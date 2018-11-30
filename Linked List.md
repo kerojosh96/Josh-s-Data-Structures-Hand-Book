@@ -1,7 +1,6 @@
 # 
 
-A linked list is an ordered collection of elements in which each node points to the next node. The first node is called the head and each node that is at the end of a list has a default null value. 
-
+A linked list is an ordered collection of elements in which each node points to the next node. The first node is called the head and each node that is at the end of a list has a default null value.Traversal is accomplished by starting at a node and moving recursively to the next node.     
 There are a few different types of linked lists.
 * in a singly linked list, each node has only one pointer, pointing to the next node.
 *	in a doubly linked list, each node has two points one pointing forwards and the other backwards.   
