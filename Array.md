@@ -8,7 +8,7 @@ An array is an ordered collection of elements stored contiguously in memory.  Wh
 
 In memory, a \[widget\] looks like this:
 
-\[sketch or diagram\]
+![](pics/array.png)
 
 \[description of diagram\]
 
