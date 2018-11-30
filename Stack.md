@@ -10,7 +10,7 @@ A stack is an ordered collection of elements in which items are either added (pu
 
 A \[widget\] supports the following operations:
 * The efficiency of push and pop are both O(1) because they both only can be added/removed from the head using a variable to store the value of the head and therefore, no iteration is needed.
-*     
+* Searching a stack is O(n) because it will could need to iterate the whole stack.
 
 
 # Use Cases
