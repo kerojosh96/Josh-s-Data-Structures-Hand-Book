@@ -1,14 +1,14 @@
 # Stack
 
-A stack is an ordered collection of elements in which items are either added (push) or removed (pop) from only one end. A stack is a Last-In-First-Out structure or (LIFO) and elements cannot be added or removed anywhere but the top. a
+A stack is an ordered collection of elements in which items are either added (push) or removed (pop) from only one end. A stack is a Last-In-First-Out structure or (LIFO) and elements cannot be added or removed anywhere but the top. 
 
 # In Memory
 
 ![](pics/stack.png)
-
+ this is a diagram of a stack in memory 
 # Operations
 
-A \[widget\] supports the following operations:
+A stack supports the following operations:
 * The efficiency of push and pop are both O(1) because they both only can be added/removed from the head using a variable to store the value of the head and therefore, no iteration is needed.
 * Searching a stack is O(n) because it will could need to iterate the whole stack.
 
@@ -32,4 +32,4 @@ print(foo.Peek())
 
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 josh Cook. All rights reserved.
