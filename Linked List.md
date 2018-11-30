@@ -11,9 +11,9 @@ There are a few different types of linked lists.
 
 ![](pics/linked.png):
 
-\[sketch or diagram\]
 
-\[description of diagram\]
+
+A diagram of a singly linked list in memory. 
 
 # Operations
 
