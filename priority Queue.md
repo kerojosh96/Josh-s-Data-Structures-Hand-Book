@@ -1,6 +1,6 @@
 # \[Widget\]
 
-A \[widget\] is \[describe in very simple terms\].
+ a priority que is similar to a regular queue but in a priority queue each element has a value that corresponds to a priority level. If an element has a higher priority, then another element the highest priority gets to the front of the queue first. This is done with the help of a binary heap. 
 
 # In Memory
 
@@ -19,7 +19,7 @@ A \[widget\] supports the following operations:
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+ because a priority queue uses a binary heap, insertion and deletion of elements onto a priority que is O(log(n)).
 
 It is not as good as \[what] \[why\].
 
