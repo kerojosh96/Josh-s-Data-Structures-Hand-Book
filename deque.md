@@ -8,7 +8,7 @@ In memory, a \[widget\] looks like this:
 
 ![](pics/deque.png)
 
-\[description of diagram\]
+This is a diagram of a deque in memory as values are enqued and dequed from both the rear and the head(left and right side). 
 
 # Operations
 
