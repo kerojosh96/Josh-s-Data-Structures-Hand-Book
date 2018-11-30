@@ -6,7 +6,7 @@
 
 In memory, a \[widget\] looks like this:
 
-\[sketch or diagram\]
+![](pics/prQ.png)
 
 \[description of diagram\]
 
