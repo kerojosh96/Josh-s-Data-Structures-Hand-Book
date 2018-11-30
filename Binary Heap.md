@@ -7,7 +7,7 @@ A binary heap is a type of complete binary tree in which has two distinct types,
 In memory, a \[widget\] looks like this:
 
 \[sketch or diagram\]
-
+![](pics/max.png)
 \[description of diagram\]
 
 # Operations
