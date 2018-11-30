@@ -4,15 +4,15 @@ A set is a collection of various elements which can be different data types.In a
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a set looks like this:
 
-\[sketch or diagram\]
+
 
 ![](pics/set.png)
 
 # Operations
 
-A \[widget\] supports the following operations:
+A set supports the following operations:
 
 * Because the python set uses a keyless hash table, insertion and deletion and search(hasValue()) are O(1). 
 
@@ -21,7 +21,7 @@ A \[widget\] supports the following operations:
 
 A few uses for a set are to compute math operations like union and difference equations, removing duplicates from a sequence.
 
-a set would not work if you need to index a value in a set.
+A set would not work if you need to index a value in a set.
 
 # Example
 
@@ -39,5 +39,5 @@ print(test)
 
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 josh cook. All rights reserved.
 
