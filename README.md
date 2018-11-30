@@ -1,5 +1,5 @@
 ![Array](Array.md)
 
 
-*![Binary Heap](Binary Heap.md)
+![Binary Heap](Binary%Heap.md)
 
