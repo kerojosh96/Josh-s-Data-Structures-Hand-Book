@@ -13,7 +13,7 @@ In memory, a queue looks like this:
 ![](pics/q.PNG)
 
 
-This is a diagram of a queue in memory 
+This is a diagram of a queue in memory  
 
 # Operations
 
