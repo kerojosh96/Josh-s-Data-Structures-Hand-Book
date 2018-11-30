@@ -8,11 +8,11 @@ In memory, a \[widget\] looks like this:
 
 ![](pics/deque.png)
 
-This is a diagram of a deque in memory as values are enqued and dequed from both the rear and the head(left and right side). 
+This is a diagram of a deque in memory as values are enqued and dequed from both the rear and the front(left and right side). 
 
 # Operations
 
-A \[widget\] supports the following operations:
+A deque supports the following operations:
 
 * An array implementation’s complexity for pushing(enque) and popping(deque) at either end of deque is O(1). 
 * searching for a value in a deque is O(n) because iteration is needed. 
