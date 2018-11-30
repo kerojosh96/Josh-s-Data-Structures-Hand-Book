@@ -20,8 +20,8 @@ In memory, a \[widget\] looks like this:
 
 A \[widget\] supports the following operations:
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* Accessing and searching a linked list is O(n) because you have to iterate across the list to find the search value. 
+* adding and deleting a value at the end of a linked list is O(1) because there is a variable which stores the location of the last element. 
 
 # Use Cases
 
