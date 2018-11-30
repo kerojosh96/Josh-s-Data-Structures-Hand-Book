@@ -1,3 +1,7 @@
+
+This is my data structures handbook describing what I learned in data structures class fall 2018.
+
+
 ![Array](Array.md)
 
 
