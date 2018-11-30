@@ -15,7 +15,7 @@ In memory, a \[widget\] looks like this:
 A \[widget\] supports the following operations:
 
 * Because the python set uses a hash table, insertion and deletion and search are O(1). 
-* name: description, Big O efficiency, and explain why / what that means
+
 
 # Use Cases
 
