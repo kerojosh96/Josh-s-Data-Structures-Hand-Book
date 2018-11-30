@@ -32,9 +32,11 @@ A binary search tree is not very useful when collecting data that is linear as t
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+test = BST(10)# creates a new bst with a root of 10
+test.insert(5)
+test.insert(15)
+test.delete(5)# deletes a value 
+test.search(15)# returns true if found
 ```
 
 (c) 2018 YOUR NAME. All rights reserved.
